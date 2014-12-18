@@ -1,7 +1,7 @@
 
 # filter
 
-![GoDoc](https://godoc.org/github.com/goocean/filter?status.png)](http://godoc.org/github.com/goocean/filter) [![Build Status](https://travis-ci.org/goocean/filter.svg)]
+![GoDoc](https://godoc.org/github.com/goocean/filter?status.png)](http://godoc.org/github.com/goocean/filter) [![Build Status](https://travis-ci.org/goocean/filter.svg)(https://travis-ci.org/goocean/filter)
 
 
 ### ParamsFromValues(v url.Values, b bool)
